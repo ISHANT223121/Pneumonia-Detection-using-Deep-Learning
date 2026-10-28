@@ -1,4 +1,5 @@
-# Pneumonia Detection using Deep Learning
+# Pneumonia Detection using CNN
+
 
 ## Problem Statement
 
